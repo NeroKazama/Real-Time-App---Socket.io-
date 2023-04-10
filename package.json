@@ -6,10 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Sarthak Shrivastava <bitfumes@gmail.com> (https://bitfumes.com)",
+  "author": "Nero",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
-    "socket.io": "^2.1.0"
+    "socket.io": "^2.5.0"
   }
 }
